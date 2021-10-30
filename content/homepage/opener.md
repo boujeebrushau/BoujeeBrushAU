@@ -1,10 +1,13 @@
 ---
-title: "Welcome"
+title: Welcome
 weight: 1
 ---
+Welcome to Boujee Brush!
 
-Hi there. This section will not show up in the header menu above. Other than that, there's really not much to see here. I did however append some generated »Lorem ipsum«-paragraphs for you. Enjoy!
+We provide the answer to the age old question “What do you want to do today?”. Our ‘Pop up Paint and Sip’ classes make it a fun and easy way to catch up with friends. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
+We set out to create unique art events where you get to paint the little luxuries in life. Unlike most sip and paint classes we specialise in water colours, not acrylic paint to create beautiful keepsakes for your home. Are you still reading and worried that you've never painted before? Well don’t shy away from a good night just yet because these classes have been designed to be accessible for the absolute beginner to the intermediate artist with our step by step guidance. 
 
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+
+
+We run both public and private social events, these can be found here or on our socials so come and join us for some boujee fun!

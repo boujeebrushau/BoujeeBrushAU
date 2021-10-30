@@ -3,13 +3,26 @@ backend:
 
 media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "img"
+local_backend: true
 
 collections: # A list of collections the CMS should be able to edit
   - name: "homepage" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Homepage section" # Used in the UI, ie.: "New Post"
-    folder: "site/content/homepage" # The path to the folder where the documents are stored
+    label: "Homepage sections" # Used in the UI, ie.: "New Post"
+    folder: "content/homepage" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Weight", name: "weight", widget: "number"}
+      - {label: "Show as heder button", name: "header_menu", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/_index.md"
+        label: "Home page"
+        name: "home"
+        fields: 
+          - {label: Header Image, name: header_image, widget: string}
+          - {label: Logo Image, name: logo_image, widget: string}
+          - {label: Headline, name: header_headline, widget: string}
+          - {label: Subheadline, name: header_subheadline, widget: string}
