@@ -1,14 +1,14 @@
-[![Atlas, Hugo Boilerplate](https://atlas.indigotree.co.uk/images/github-banner.png)](https://github.com/indigotree/atlas)
+# BoujeeBrush AU
 
-![](http://forthebadge.com/images/badges/uses-badges.svg) ![](http://forthebadge.com/images/badges/built-by-developers.svg) ![](http://forthebadge.com/images/badges/gluten-free.svg)
+Website for Lauren Rowe's pretty cool business.
 
+
+This site was based on a Hugo/Netlify template, Atlas. 
 # Atlas
 
 The [Hugo](https://gohugo.io/) boilerplate we use for our projects.
 
 **Disclaimer** - This boilerplate has been heavily integrated with [Netlify](https://www.netlify.com/), and therefore many features are specific to the Netlify platform and may not work with other hosting providers.
-
-**Disclaimer** - Atlas is a starter kit designed for Hugo projects that want styling developed from the ground up.. It's not a Hugo theme and cannot be placed inside the `/themes` directory. Check the [theme](#themes) docs for more information.
 
 ## Features
 
@@ -41,7 +41,7 @@ There are 3 commands available:
 * `npm run build` - Builds assets (sass, js, fonts, images) and runs `hugo`
 * `npm run build:preview` - The same as `build`, but runs `hugo --buildDrafts --buildFuture`
 * `npm run server` - Runs BrowserSync and watches for changes, running `build` when changes are detected
-
+* `npm run cms` - Runs the Netlify CMS locally so you can edit content yourself instead of having to do it on the hosted version.
 ## Robots.txt
 
 A default robots.txt can be found at `/layouts/robots.txt` which is configured to disallow crawlers when the `HUGO_ENV` environment variable is **not** set to `"production"`.
@@ -97,12 +97,6 @@ This is a Netlify feature. Learn more about [Netlify Redirects](https://www.netl
 
 Hugo [Aliases](https://gohugo.io/content-management/urls/#aliases) are usually handled by `<meta http-equiv="refresh" ...>` tags. These have been disabled within `config.toml` with `disableAliases = true`, and instead are handled by [Netlify Redirects](https://www.netlify.com/docs/redirects/). This is handled automatically and you should continue to add aliases as described in the Hugo documentation.
 
-## Themes
-
-Atlas is a boilerplate (starter kit) designed to be used without needing to download a theme. This means that Atlas isrecommended for users looking to develop their own styling.  Using existing themes with Atlas is possible, but Atlas files will take priority over themes placed in the theme folder due to the order Hugo looks for files. For this reason, you will have to remove most of the files inside `/layouts` with the exception of `_headers`, `_redirects` and `robots.txt`.
-
-If you wish the develop your site as a theme inside Atlas, you can copy `/layouts` into your theme and update the references within the `gulpfile.babel.js`.
-
 
 ## File Structure
 
@@ -140,13 +134,6 @@ If you wish the develop your site as a theme inside Atlas, you can copy `/layout
 │ netlify.toml               - Netlify configuration
 │ package.json
 ```
-
-## Deploy to Netlify
-
-You can deploy directly to Netlify using this button:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/indigotree/atlas)
-
 ## License
 
 MIT © [Indigo Tree](https://indigotree.co.uk)

@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Home page"
         name: "home"
         fields: 
-          - {label: Header Image, name: header_image, widget: string}
-          - {label: Logo Image, name: logo_image, widget: string}
+          - {label: Header Image, name: header_image, widget: image}
+          - {label: Logo Image, name: logo_image, widget: image}
           - {label: Headline, name: header_headline, widget: string}
           - {label: Subheadline, name: header_subheadline, widget: string}
