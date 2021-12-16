@@ -3,6 +3,7 @@
     {{ with .Site.Params.copyright }}
       <section class="copyright">{{ . | markdownify }}</section>{{ end }}
 
+      <section><a href="/terms">Terms and Conditions</a></section>
 
     <section>{{ echoParam .Site.Params "hidebyline" }}</section>
     {{ if ne .Site.Params.hidedesignbyline true }}

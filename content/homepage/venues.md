@@ -1,7 +1,7 @@
 ---
-title: Venues
+title: Work with Us
 weight: 4
-header_menu: false
+header_menu: true
 ---
 ## WORK WITH US
 

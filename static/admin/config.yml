@@ -26,3 +26,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Logo Image, name: logo_image, widget: image}
           - {label: Headline, name: header_headline, widget: string}
           - {label: Subheadline, name: header_subheadline, widget: string}
+      - file: "content/terms.md"
+        label: "Terms and Co"
+        name: "terms"
+        fields: 
+          - {label: Header Image, name: header_image, widget: image}
+          - {label: Headline, name: header_headline, widget: string}
+          - {label: Subheadline, name: header_subheadline, widget: string}
+          - {label: "Body", name: "content", widget: "markdown"}
