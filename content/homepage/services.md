@@ -18,11 +18,9 @@ Please arrive 10-minutes prior to the start of class, so that we may get you sea
 
 [](https://www.eventbrite.com.au/e/202248730397)
 
-![](img/sabrina.png)
+![](img/1.jpg)
 
-[Book on Eventbrite](https://www.eventbrite.com.au/e/202248730397)
-
-
+## [Book on Eventbrite](https://www.eventbrite.com.au/e/202248730397)
 
 ## PACKAGE INCLUDES
 
