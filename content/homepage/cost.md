@@ -3,6 +3,8 @@ title: Private Bookings
 weight: 3
 header_menu: true
 ---
+![](img/1.jpg)
+
 ## PRIVATE CLASSES 
 
 Bespoke experience for any occasion!
@@ -12,25 +14,15 @@ Have an event you want to celebrate but not sure what to do?  We offer private 
 
 PACKAGE INCLUDES
 
-
-
 * All art equipment to paint your watercolour painting. Including watercolour paper with drawing guides, paints, palettes, tablecloth, paintbrushes and water cups
 * Boujee Brush frame for your guests to keep their art in after the event
 * 2-3 hour session with your party host
 * Pack up and pack down
 
-
-
 COST
-
-
 
 $60 per person with a minimum of 8 guests or minimum spend of $480.
 
-
-
 Want to split the bill? No problem! We will set up a convenient link for your guests to purchase their own spot for your event. Guests must purchase tickets 10 days prior to the event.
-
-
 
 Classes out of the Sydney metropolitan area may result in a travel surcharge.
