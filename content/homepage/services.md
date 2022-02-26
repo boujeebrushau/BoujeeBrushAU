@@ -16,13 +16,11 @@ Ticket includes:
 * 2-3 hour session with our host at the location stated on the ticket.
 * Option to purchase your own paint kit to take home after the class.
 
-
-
 Please arrive 10-minutes prior to the start of class, so that we may get you seated and ready. Pending the venue you may bring your own beverages or you will have an opportunity to purchase food and drinks on site. Let's party!
 
 [](https://www.eventbrite.com.au/e/202248730397)
 
-![](img/1.jpg)
+![](img/acs_0145.jpg)
 
 ## [Book on Eventbrite](https://www.eventbrite.com.au/e/202248730397)
 
